@@ -1,2 +1,2 @@
-# phase-0-week1.js
+# phase-0.js
 first time hello world
